@@ -21,7 +21,6 @@ let weekday_map = HashMap([
 fn main() {
     let mut h: i32;
     let q: i32 = 1;
-    
 }
 
 
