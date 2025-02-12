@@ -1,1 +1,21 @@
-/target
+# Rust build artifacts
+/target/
+/debug/
+/release/
+*.rlib
+
+# Cargo files
+/.cargo/
+
+# IDE / Editor files
+.idea/
+/.vscode/
+/*.swp
+*.sublime-workspace
+
+# Logs & temp files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
